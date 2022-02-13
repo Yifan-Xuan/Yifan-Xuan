@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Yifan Xuan (宣一帆).
 
+I am a 1st year graduate student at [Tsung-Dao Lee Institute](https://tdli.sjtu.edu.cn/EN/) and [Department of Astronomy](http://astro.sjtu.edu.cn/zh/) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I got my bachelor degree in physics from Northwest University in Xi'an, Shaanxi Province. 
 <!--
 **Yifan-Xuan/Yifan-Xuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
